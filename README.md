@@ -1,2 +1,2 @@
 # udemydatascience
-My Linear regression model (using sklearn) - following Udemy course
+MNIST ("Hello World" of ML)
